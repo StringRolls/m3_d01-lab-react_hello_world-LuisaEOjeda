@@ -1,0 +1,27 @@
+.navbar {
+    background-color: black;
+    display:flex;
+    height: 10px;
+    justify-content: space-between;
+    padding-top: 5px;
+    border: 10px 10px 10px solid white;
+
+
+}
+
+.image{
+    margin-top: 5px;
+    margin-right: 5px;
+    width: 5px;
+    height:2px;
+}
+
+.imagenav{
+    width: 15px;
+    height: 15px;
+}
+
+.buttonone{
+    background: url('../images/menu-top-xs.png')no-repeat top right;
+
+}
